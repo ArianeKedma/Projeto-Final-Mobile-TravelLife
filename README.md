@@ -30,6 +30,8 @@ suas experiências de viagens e memórias.
 - Variação de Temas
 - Armazenamento local
 
+---
+
 # Screenshots
 
 # Requisitos
