@@ -36,13 +36,28 @@ suas experiências de viagens e memórias.
 
 # Requisitos
 
-- Flutter versão: ...
-- Dart versão: ...
-- Shared_preferences: ...
+- Flutter versão: ^3.29.3
+- Dart versão: 3.7.2
+- shared_preferences: ^2.5.3
+- flutter_securite_storage: ^9.2.4
+- cupertino_icons: ^1.0.8 
+
+---
 
 # Instalação
 
+---
+
 # Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+</p>
+
+---
+
+# Contribuições
 
 - [Ariane Kedma Costa da Silva](https://github.com/ArianeKedma)
 - [Julia de França Macena Silva](https://github.com/Macenaaa)
