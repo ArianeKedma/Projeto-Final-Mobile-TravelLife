@@ -44,5 +44,8 @@ suas experiências de viagens e memórias.
 
 # Tecnologias
 
+- [Ariane Kedma Costa da Silva](https://github.com/ArianeKedma)
+- [Julia de França Macena Silva](https://github.com/Macenaaa)
+- [Lavínia Domingos]()
 
 
