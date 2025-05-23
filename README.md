@@ -46,6 +46,6 @@ suas experiências de viagens e memórias.
 
 - [Ariane Kedma Costa da Silva](https://github.com/ArianeKedma)
 - [Julia de França Macena Silva](https://github.com/Macenaaa)
-- [Lavínia Domingos]()
+- [Lavínia Domingos](https://github.com/laviDomingos)
 
 
